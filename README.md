@@ -6,9 +6,9 @@
 
 Atualmente estou estudando para me tornar uma Dev Java Jr Full Stack :computer:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coelhodiana&layout=compact&theme=buefy)](https://github.com/coelhodiana/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlacarvalima&layout=compact&theme=buefy)](https://github.com/carlacarvalima/github-readme-stats)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=coelhodiana&theme=buefy&show_icons=true&hide=issues)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=carlacarvalima&theme=buefy&show_icons=true&hide=issues)
 
 
 
