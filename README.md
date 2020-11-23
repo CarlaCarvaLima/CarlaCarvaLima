@@ -12,7 +12,7 @@ Atualmente estou estudando para me tornar uma Dev Java Jr Full Stack :computer:
 
 
 
-<img src="https://github.com/CarlaCarvaLima/Fundamentos-Web/blob/html/assets/gif/LuckStarteclando.gif">
+<img src="https://github.com/CarlaCarvaLima/CarlaCarvaLima/blob/assets/assets/gif/LuckStarteclando.gif">
 
 
 
