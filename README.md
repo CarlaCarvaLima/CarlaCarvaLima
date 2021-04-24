@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carla-carvalho-de-lima-65b92bbb)](https://www.linkedin.com/in/carla-carvalho-de-lima-65b92bbb)
 
 
-Graduada em Engenharia Mecatrônica. Recém formada como uma Desenvolvedora Java Full Stack Jr pelo BootCamp da Generation Brasil. Sei me comunicar bem, trabalhar em equipe e busco sempre aprender mais, assim como sempre estou disposta a ajudar e compartilhar meu conhecimento com quem me procurar. Também tenho como objetivo contribuir e ajudar mais mulheres a iniciarem uma carreira na área da tecnologia. :computer:
+Graduada em Engenharia Mecatrônica. Formada como uma Desenvolvedora Java Full Stack Jr pelo BootCamp da Generation Brasil. Sei me comunicar bem, trabalhar em equipe e busco sempre aprender mais, assim como sempre estou disposta a ajudar e compartilhar meu conhecimento com quem me procurar. Também tenho como objetivo contribuir e ajudar mais mulheres a iniciarem uma carreira na área da tecnologia. :computer:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlacarvalima&layout=compact&theme=buefy)](https://github.com/carlacarvalima/github-readme-stats)
 
